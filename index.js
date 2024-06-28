@@ -8,9 +8,9 @@ function countDown(startingNumber) {
     }
   }
   
-  // Example usage:
+  
   countDown(10);
-  // index.js
+
 
 function writeCards(names, eventName) {
     let thankYouMessages = [];
